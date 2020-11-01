@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Assignment-work-Webapp/static/css/main.8a0cedcb.chunk.css",
+    "main.js": "/Assignment-work-Webapp/static/js/main.b2989230.chunk.js",
+    "main.js.map": "/Assignment-work-Webapp/static/js/main.b2989230.chunk.js.map",
+    "runtime-main.js": "/Assignment-work-Webapp/static/js/runtime-main.bfea7f4a.js",
+    "runtime-main.js.map": "/Assignment-work-Webapp/static/js/runtime-main.bfea7f4a.js.map",
+    "static/js/2.ffb5456d.chunk.js": "/Assignment-work-Webapp/static/js/2.ffb5456d.chunk.js",
+    "static/js/2.ffb5456d.chunk.js.map": "/Assignment-work-Webapp/static/js/2.ffb5456d.chunk.js.map",
+    "index.html": "/Assignment-work-Webapp/index.html",
+    "precache-manifest.e6361fa2cb33acce6941dd06af832655.js": "/Assignment-work-Webapp/precache-manifest.e6361fa2cb33acce6941dd06af832655.js",
+    "service-worker.js": "/Assignment-work-Webapp/service-worker.js",
+    "static/css/main.8a0cedcb.chunk.css.map": "/Assignment-work-Webapp/static/css/main.8a0cedcb.chunk.css.map",
+    "static/js/2.ffb5456d.chunk.js.LICENSE.txt": "/Assignment-work-Webapp/static/js/2.ffb5456d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfea7f4a.js",
+    "static/js/2.ffb5456d.chunk.js",
+    "static/css/main.8a0cedcb.chunk.css",
+    "static/js/main.b2989230.chunk.js"
+  ]
+}
